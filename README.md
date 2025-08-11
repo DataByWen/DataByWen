@@ -1,8 +1,12 @@
 ![logo](https://github.com/DataByWen/DataByWen/blob/main/banner.gif)
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello World!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-I thrive on exploring data and transforming it into stories that spark action. From raw numbers to clear insights, I enjoy every step of the journey toward data-driven results.
+- 🌱 I thrive on exploring data and transforming it into stories that spark action. From raw numbers to clear insights, I enjoy every step of the journey toward data-driven results. I have a passion for solving real-world problems using data analytics, and I am committed to continuous learning. 
+
+- ⚡ Fun Facts:
+    - 🍦: I love mint chocolate ice cream
+    - 🪂: Paragliding is on my bucket list
 
 <!--
 **DataByWen/DataByWen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
