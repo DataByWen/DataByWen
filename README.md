@@ -1,3 +1,5 @@
+![logo](https://github.com/DataByWen/DataByWen/blob/main/banner.gif)
+
 ## Hi there 👋
 
 <!--
